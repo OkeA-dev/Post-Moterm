@@ -1,9 +1,4 @@
-Below is a **clean, polished, copy-paste ready README.md**.
-No placeholders inside sections unless clearly marked — you can drop this straight into your repo and tweak names later.
 
----
-
-```markdown
 # Post-Mortem Hack Analysis with Simulation Tests
 
 A framework for post-mortem analysis of security incidents using reproducible attack simulations and test-driven validation.
